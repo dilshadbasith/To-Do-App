@@ -1,0 +1,54 @@
+.contentWrapper{
+    height: 100vh;
+    width: 100vw;
+    background-color: cornflowerblue;
+    display: grid;
+    place-items: center;
+}
+.title{
+    color: cornsilk;
+    font-family: cursive;
+    font-size: 50px;
+    
+}
+.btn{
+    color: honeydew;
+    background-color: rgb(53, 130, 194);
+    height: 35px;
+    width: 45px;
+    text-align: center;
+    border-radius: 5px;
+    border:thick;
+    border-color: rgb(54, 155, 185);
+    margin-top: 5vh;
+    cursor: pointer;
+    
+}
+.textBox{
+    border-radius: 5px;
+    height: 25px;
+    border-bottom: gray;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.textBtn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 5vh;
+    
+}
+.addNew{
+    text-align: center;
+    margin-top: 3vh;
+    color: cornsilk;
+    font-family: cursive;
+    
+    
+}
+.me{
+    font-size:x-small;
+    color: cornsilk;
+    margin-bottom: 0%;
+
+}

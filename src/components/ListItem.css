@@ -1,0 +1,26 @@
+.listitem{
+    display: flex;
+    background-color: cornsilk;
+    justify-content: space-between;
+    color: black;
+    margin: 10px;
+    border-radius: 5px;
+    height: 25px;
+    border-bottom: gray;
+    border-width: 20px;
+}
+.listview{
+    border-radius: 5px;
+    height: 25px;
+    width: 25px;
+    display: flex;
+    
+}
+.delete{
+    border-radius: 3px;
+    margin-left: 100px;
+    background-color: rgb(54, 155, 185);
+    color: white;
+    width: 25px;
+    height: 26px;
+}
